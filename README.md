@@ -6,7 +6,7 @@
 * [GFG Important](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 * Go through previous year questions on student's feedback before the technical round.
 
-### Normizaliation
+### Normalization
 * [Tutorialspoint](https://www.youtube.com/results?search_query=tutorials+point+normalization)
 
 ### SQL
