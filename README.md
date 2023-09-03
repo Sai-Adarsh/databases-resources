@@ -1,4 +1,4 @@
-## Databases-Interviews
+## Databases-Resources
 
 ### Interview Questions
 * [PDF](https://github.com/Sai-Adarsh/Databases-Interviews/blob/main/dbms-interview-questions.pdf)
